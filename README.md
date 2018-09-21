@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+ALL GLORY TO THE HYPNOTOAD
